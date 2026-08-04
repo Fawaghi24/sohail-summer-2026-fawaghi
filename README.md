@@ -1,4 +1,4 @@
-# Diagnostic Exercises — Summer 2026
+# Diagnostic Exercises - Summer 2026
 
 This repository contains my submission for the diagnostic tasks for the Summer 2026 Internship Program.
 
