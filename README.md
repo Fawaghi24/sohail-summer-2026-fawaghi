@@ -25,9 +25,9 @@ Ensure you have Python 3 installed. Navigate to the `diagnostic` directory in yo
 ```bash
 cd diagnostic
 
+```
 
 Reflection & Difficulties
 Background Context: It has been a long time since I last programmed in Python (my last experience was back in high school). Getting back into syntax, environment management, and execution commands required refreshing my foundational knowledge.
 
 AI Assistance: Because I am getting back into coding after a long gap, I used AI tools as a learning assistant to guide me on Python structure, debugging terminal path errors, and organizing clean logic. I focused on keeping the code readable and easy to understand at my current skill level.
-```
