@@ -1,0 +1,16 @@
+##Part 1: 
+
+#1.1 Virtual environments & dependency management
+
+Why every serious Python project isolates its dependencies: Different projects often require different package versions for example, an older project might rely on a legacy version, while a newer project requires the latest release. To prevent version conflicts and avoid breaking code, each project uses its own isolated virtual environment. This keeps all dependencies and relevant project files self-contained in one dedicated place.
+
+Why venv/ must never be committed to Git (and what .gitignore is for): The venv/ directory should never be tracked by Git because it contains thousands of heavy binary files that take up unnecessary space. Additionally, environment configurations are OS-specific and won't function identically across different operating systems. A .gitignore file tells Git to ignore specific files and directories such as venv/ so you only share project source code and configuration files.
+
+
+#1.2 Defensive file handling in Python
+
+try / except FileNotFoundError: Crashing on a missing file is unacceptable in production code because an unhandled error can crash the entire application or server pipeline. To prevent this, using a try / except FileNotFoundError block allows the developer to catch the missing file error  and specify a fallback action.
+
+pathlib (Path(__file__).parent): Hardcoded relative paths break when a script is executed from a different directory because the path resolution depends on where the terminal command was triggered. Using Path(__file__).parent solves this by dynamically resolving the file path relative to where the script file actually resides on disk.
+
+if __name__ == "__main__":: This guard ensures that the script's main code block is executed only when the file is run directly, and NOT when its functions are imported into another module.
