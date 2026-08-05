@@ -1,13 +1,31 @@
-id,name,major,gpa,credits_completed
-1,Ahmed,Computer Science,3.6,75
-2,Sara,Computer Science,3.9,90
-3,Omar,Cybersecurity,3.4,65
-4,Mariam,Data Science,3.8,55
-5,Khalid,Computer Science,3.2,45
-6,Noor,Data Science,3.7,80
-7,Fatima,Cybersecurity,3.9,100
-8,Yousef,Computer Science,3.5,70
-9,Laila,Data Science,3.1,40
-10,Hamad,Cybersecurity,3.6,85
-11,Aisha,Computer Science,4.0,120
-12,Salem,Data Science,3.3,60
+id,name,major,gpa,credits_completed,enrollment_year,is_active
+1,Ahmed,Computer Science,3.6,75,2022,True
+2,Sara,Computer Science,3.9,90,2021,True
+3,Omar,Cybersecurity,3.4,65,2023,True
+4,Mariam,Data Science,3.8,55,2022,True
+5,Khalid,Computer Science,3.2,45,2023,False
+6,Noor,Data Science,3.7,80,2021,True
+7,Fatima,Cybersecurity,3.9,100,2021,True
+8,Yousef,Computer Science,3.5,70,2022,True
+9,Laila,Data Science,3.1,40,2024,False
+10,Hamad,Cybersecurity,3.6,85,2022,True
+11,Aisha,Computer Science,4.0,120,2021,True
+12,Salem,Data Science,3.3,60,2023,True
+13,Reem,Cybersecurity,3.75,78,2022,True
+14,Zayed,Computer Science,2.9,35,2024,True
+15,Hessa,Data Science,3.65,82,2021,True
+16,Sultan,Cybersecurity,3.15,48,2023,False
+17,Mona,Computer Science,3.85,95,2021,True
+18,Tariq,Data Science,2.95,30,2024,False
+19,Alia,Cybersecurity,3.45,62,2022,True
+20,Rashid,Computer Science,3.1,50,2023,True
+21,Kaltham,Data Science,3.92,105,2021,True
+22,Humaid,Cybersecurity,2.8,25,2025,True
+23,Maitha,Computer Science,3.68,72,2022,True
+24,Saeed,Data Science,3.05,42,2024,False
+25,Shamsa,Cybersecurity,3.88,88,2021,True
+26,Bader,Computer Science,3.35,58,2023,True
+27,Latifa,Data Science,3.78,84,2022,True
+28,Mansoor,Cybersecurity,2.85,32,2024,False
+29,Salama,Computer Science,3.97,110,2021,True
+30,Faisal,Data Science,3.42,66,2022,True
