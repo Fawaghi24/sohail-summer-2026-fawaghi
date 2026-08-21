@@ -10,18 +10,26 @@ I am a Computer Science student with an interest in building practical software 
 
 ---
 
-## Technical Inventory
+Technical Inventory
 
-| Technology / Tool | Level |
-| :--- | :--- |
-| **Java** | Uni Knowledge |
-| **C++** | Uni Knowledge |
-| **SQL** | Beginner |
-| **HTML** | Beginner |
-| **React** | Beginner |
-| **Figma** | Confident |
-| **n8n** | Confident |
-| **VS Code** | Confident |
+| Technology / Tool      | Level             | Changed since Day 1?                                                                                 |
+| ---------------------- | ----------------- | ---------------------------------------------------------------------------------------------------- |
+| Python                 | Working knowledge | ✅ Improved (rusty since high school on Day 1 → structured, error-handled scripts and OOP by Week 3) |
+| pandas                 | Working knowledge | ✅ New skill (not previously used)                                                                   |
+| matplotlib             | Working knowledge | ✅ New skill (not previously used)                                                                   |
+| seaborn                | Working knowledge | ✅ New skill (not previously used)                                                                   |
+| scikit-learn           | Working knowledge | ✅ New skill (not previously used)                                                                   |
+| Streamlit              | Working knowledge | ✅ New skill (not previously used)                                                                   |
+| Git & GitHub           | Working knowledge | ✅ Improved (previously Beginner)                                                                    |
+| Markdown documentation | Confident         | ✅ Improved (previously Working knowledge)                                                           |
+| Java                   | Working knowledge | Not touched during the programme                                                                     |
+| C++                    | Working knowledge | Not touched during the programme                                                                     |
+| SQL                    | Beginner          | Not touched during the programme                                                                     |
+| HTML                   | Beginner          | Not touched during the programme                                                                     |
+| React                  | Beginner          | Not touched during the programme                                                                     |
+| Figma                  | Confident         | Not touched during the programme                                                                     |
+| n8n                    | Confident         | Not touched during the programme                                                                     |
+
 
 ---
 
